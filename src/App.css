@@ -1,0 +1,25 @@
+
+@font-face {
+font-family: 'Acme-Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Acme-Regular'), url('Acme-Regular.ttf') format('ttf');
+}
+
+div{
+    color: #F2D234;
+    width: 100%;
+}
+.input{
+  background-color: #F2D234;
+  color: black;
+}
+
+.entry{
+    color: #F2D234;  
+}
+article{
+  background-color: #415148;
+  font-family: 'Acme-Regular',monospace;
+  font-weight: normal;
+}

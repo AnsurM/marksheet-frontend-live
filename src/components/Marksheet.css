@@ -1,0 +1,26 @@
+h1 , h2, h3{
+	text-align: center !important;
+	margin-top: 5px !important;
+}
+
+
+.data{
+	background-color: #415148;
+	font-size: 100%;
+	text-align: center;
+}
+
+.gpa
+{
+	background-color: #415148;
+	margin-top: 0px !important;
+	padding-bottom: 0px;
+}
+
+h3 {
+  font-size: 140% !important;
+}
+
+.sub{
+  margin-left: 47%;
+}
